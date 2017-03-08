@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CC72C4E9-E996-4B77-9BB0-2E59EDF6A3FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{852565B8-0992-4DDB-89F8-D3A67601A34E}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "gradebook_exercise", "src\gradebook_exercise\gradebook_exercise.xproj", "{16477D17-4F71-4C9C-9D2E-59E3B30C225D}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "gradebook_exercise_arrays", "src\gradebook_exercise_arrays\gradebook_exercise_arrays.xproj", "{C626CE0D-149C-436B-A23E-42094A52306A}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "gradebook_exercise_dictionaries", "src\gradebook_exercise_dictionaries\gradebook_exercise_dictionaries.xproj", "{197E75AC-87C9-44F4-93D2-FF56E457BEC4}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "working_with_strings", "src\working_with_strings\working_with_strings.xproj", "{CBB7A882-F544-414A-8D89-D332E011B09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16477D17-4F71-4C9C-9D2E-59E3B30C225D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16477D17-4F71-4C9C-9D2E-59E3B30C225D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16477D17-4F71-4C9C-9D2E-59E3B30C225D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16477D17-4F71-4C9C-9D2E-59E3B30C225D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C626CE0D-149C-436B-A23E-42094A52306A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C626CE0D-149C-436B-A23E-42094A52306A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C626CE0D-149C-436B-A23E-42094A52306A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C626CE0D-149C-436B-A23E-42094A52306A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197E75AC-87C9-44F4-93D2-FF56E457BEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197E75AC-87C9-44F4-93D2-FF56E457BEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197E75AC-87C9-44F4-93D2-FF56E457BEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197E75AC-87C9-44F4-93D2-FF56E457BEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB7A882-F544-414A-8D89-D332E011B09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB7A882-F544-414A-8D89-D332E011B09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB7A882-F544-414A-8D89-D332E011B09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB7A882-F544-414A-8D89-D332E011B09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16477D17-4F71-4C9C-9D2E-59E3B30C225D} = {CC72C4E9-E996-4B77-9BB0-2E59EDF6A3FA}
+		{C626CE0D-149C-436B-A23E-42094A52306A} = {CC72C4E9-E996-4B77-9BB0-2E59EDF6A3FA}
+		{197E75AC-87C9-44F4-93D2-FF56E457BEC4} = {CC72C4E9-E996-4B77-9BB0-2E59EDF6A3FA}
+		{CBB7A882-F544-414A-8D89-D332E011B09C} = {CC72C4E9-E996-4B77-9BB0-2E59EDF6A3FA}
+	EndGlobalSection
+EndGlobal

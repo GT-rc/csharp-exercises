@@ -14,8 +14,12 @@ namespace Area
             int length;
             int width;
             int area;
+            //double width;
+            //double height;
 
             Console.WriteLine("What is the Length of the rectangle?");
+            //width = double.Parse(Console.ReadLine());
+
             inputLength = Console.ReadLine();
             length = int.Parse(inputLength);
 
