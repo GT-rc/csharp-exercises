@@ -1,47 +1,47 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DayPrinter", "DayPrinter\DayPrinter.xproj", "{B3E76AAA-3BE8-49C7-A831-64EF68C6F28D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayPrinter", "DayPrinter\DayPrinter.csproj", "{B3E76AAA-3BE8-49C7-A831-64EF68C6F28D}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ElseIf", "ElseIf\ElseIf.xproj", "{C7008ACC-EE4B-49CC-B7FB-5F9F95E257A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElseIf", "ElseIf\ElseIf.csproj", "{C7008ACC-EE4B-49CC-B7FB-5F9F95E257A9}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TempConv", "TempConv\TempConv.xproj", "{6D18F93D-E26F-4FF4-ABF2-1450FD9FB19D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempConv", "TempConv\TempConv.csproj", "{6D18F93D-E26F-4FF4-ABF2-1450FD9FB19D}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloWorld", "HelloWorld\HelloWorld.xproj", "{D4E93AA7-2F10-4564-AA2A-1DC71367C8B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D4E93AA7-2F10-4564-AA2A-1DC71367C8B5}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CountingCharacters", "CountingCharacters\CountingCharacters.xproj", "{CD5CD03F-221B-4BA2-9DEE-8DB6BE83803F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCharacters", "CountingCharacters\CountingCharacters.xproj", "{CD5CD03F-221B-4BA2-9DEE-8DB6BE83803F}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Sandbox", "Sandbox\Sandbox.xproj", "{B30072D4-D11D-45B9-8F8C-4AC29E0E1C98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandbox", "Sandbox\Sandbox.xproj", "{B30072D4-D11D-45B9-8F8C-4AC29E0E1C98}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HelloMethods", "HelloMethods\HelloMethods.xproj", "{9B69E0D2-FBD5-4FB4-9D40-768AE4F57300}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloMethods", "HelloMethods\HelloMethods.csproj", "{9B69E0D2-FBD5-4FB4-9D40-768AE4F57300}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Gradebook", "Gradebook\Gradebook.xproj", "{9E08496B-2501-4CBF-844F-8FD7BA97F4E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gradebook", "Gradebook\Gradebook.csproj", "{9E08496B-2501-4CBF-844F-8FD7BA97F4E6}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GradebookDict", "GradebookDict\GradebookDict.xproj", "{EFCB1B91-2E92-478F-BFF7-013FF6911DCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookDict", "GradebookDict\GradebookDict.csproj", "{EFCB1B91-2E92-478F-BFF7-013FF6911DCC}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GradebookArray", "GradebookArray\GradebookArray.xproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradebookArray", "GradebookArray\GradebookArray.csproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Area", "Area\Area.xproj", "{C1E52DDA-AACA-456F-A77F-735E72ABF701}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area", "Area\Area.csproj", "{C1E52DDA-AACA-456F-A77F-735E72ABF701}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.xproj", "{4E385314-E02F-4B51-933E-6B31F10095CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MilesPerGallon", "MilesPerGallon\MilesPerGallon.csproj", "{4E385314-E02F-4B51-933E-6B31F10095CF}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AliceString", "AliceString\AliceString.xproj", "{B07C105D-4048-4FF7-A8E8-BCE459A2A094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AliceString", "AliceString\AliceString.csproj", "{B07C105D-4048-4FF7-A8E8-BCE459A2A094}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CircleArea", "CircleArea\CircleArea.xproj", "{6A167D35-14AD-4C98-AF3A-582A62C57CF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleArea", "CircleArea\CircleArea.csproj", "{6A167D35-14AD-4C98-AF3A-582A62C57CF3}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HW2Lists", "HW2Lists\HW2Lists.xproj", "{D6A29EE3-618F-4C5E-BCCC-426F6C492F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2Lists", "HW2Lists\HW2Lists.csproj", "{D6A29EE3-618F-4C5E-BCCC-426F6C492F2C}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HW2Arrays", "HW2Arrays\HW2Arrays.xproj", "{258B0979-D047-41FA-AAED-F70F7E8ED999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2Arrays", "HW2Arrays\HW2Arrays.csproj", "{258B0979-D047-41FA-AAED-F70F7E8ED999}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HW2Strings", "HW2Strings\HW2Strings.xproj", "{6BE74E8E-FB71-44F2-9EE8-94D86A7E9C3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2Strings", "HW2Strings\HW2Strings.csproj", "{6BE74E8E-FB71-44F2-9EE8-94D86A7E9C3E}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HW2Dictionaries", "HW2Dictionaries\HW2Dictionaries.xproj", "{14C450DD-8980-4A70-ACAD-97A36B46FCE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2Dictionaries", "HW2Dictionaries\HW2Dictionaries.csproj", "{14C450DD-8980-4A70-ACAD-97A36B46FCE2}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "HW2ListsAndStrings", "HW2ListsAndStrings\HW2ListsAndStrings.xproj", "{AB563631-D4BF-490B-A454-8E075094B55C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW2ListsAndStrings", "HW2ListsAndStrings\HW2ListsAndStrings.csproj", "{AB563631-D4BF-490B-A454-8E075094B55C}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CountingCharachters", "CountingCharachters\CountingCharachters.xproj", "{3E85745B-5FE3-4834-8403-24A8E3E0B8F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingCharachters", "CountingCharachters\CountingCharachters.csproj", "{3E85745B-5FE3-4834-8403-24A8E3E0B8F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -132,5 +132,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071224CE-14AD-486D-8C86-C3198B6B6EA0}
 	EndGlobalSection
 EndGlobal
